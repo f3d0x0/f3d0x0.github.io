@@ -153,7 +153,7 @@ This is the crazy result:
 years. Source: https://compoundhyip.com/ </figcaption></center>
 </figure>
 
-aBOT turns your $1,000 investment in **$2,075,205.11**: congrats, you’re a millionaire. ❤
+aBOT turns your $1,000 investment in $2,075,205.11: congrats, you’re a millionaire. ❤
 
 Without. Doing. Nothing. Just lock your initial investment and let the aBOT do its job for you.
 
@@ -344,7 +344,7 @@ On 11 January 2019, **Arbitraging made a huge mistake** by releasing the followi
 
 <figure class="aligncenter">
   <img src="https://i.imgur.com/YBP96PY.png" />
-  <center><figcaption>BVI business license** of Arbitraging published on 11 January 2019. Source: https://www.arbitraging.co/images/License.PNG</figcaption></center>
+  <center><figcaption>BVI business license of Arbitraging published on 11 January 2019. Source: https://www.arbitraging.co/images/License.PNG</figcaption></center>
 </figure>
 
 
